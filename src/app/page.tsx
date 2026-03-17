@@ -181,7 +181,7 @@ export default function Home() {
                     </a>
                     <span className="text-sm text-muted-foreground">|</span>
                     <a
-                        href="https://github.com/moroii69"
+                        href="https://github.com/ufraaan"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-sm text-muted-foreground"
